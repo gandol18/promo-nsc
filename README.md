@@ -1,2 +1,1 @@
-# promo-nsc
-nsc finance
+# gandolsaja
